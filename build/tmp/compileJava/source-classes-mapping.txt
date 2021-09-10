@@ -1,0 +1,6 @@
+com/spellshocked/Main.java
+ com.spellshocked.Main
+com/spellshocked/server/EchoServer.java
+ com.spellshocked.server.EchoServer
+com/spellshocked/client/EchoClient.java
+ com.spellshocked.client.EchoClient
